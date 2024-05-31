@@ -1,0 +1,6 @@
+require_relative 'src/base'
+require_relative 'src/calculate_average'
+require_relative 'src/calculate_average/calculate_average_from_fiat_coin'
+require_relative 'src/calculate_average/calculate_average_from_stable_coin'
+require_relative 'src/calculate_average/calculate_average_from_crypto_coin'
+require_relative 'src/binance_sdk/main'
